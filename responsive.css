@@ -36,12 +36,12 @@
       text-align: left;
     }
     
-    /* Tambahkan CSS untuk header-right */
+    /* CSS untuk header-right */
     .header-right{
       display:none;
     }
     
-    /* Tambahkan CSS untuk menu-icon */
+    /* CSS untuk menu-icon */
     .menu-icon{
       display:block;
     }
